@@ -1,0 +1,122 @@
+/* body */
+body{
+    font: 15px arial, helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+}
+/* body ends */
+/* header */
+
+header {
+    background-color: #454f6f;
+    padding:10px;
+    margin-left: -10px;
+    margin-right: -20px;
+    margin-top: -20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header h3 {
+    margin-left: 50px;
+}
+
+nav {
+    display: flex;
+}
+nav ul {
+    color: white;
+    margin-right: 50px;
+    transition: 0.5s ease;
+}
+nav a {
+    color: white;
+    margin: 0px 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: aqua; 
+}
+/* header ends */
+
+#dhexda {
+    min-width: height 400px;
+    background-color: #e6834c;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 90px;
+    padding-bottom: 40px;
+    margin-right: -20px;
+    margin-left: -20px;
+}
+#dhexda p {
+    font-size: 1rem;
+}
+#kusaabsan {
+    background-color: aqua;
+    border: 5px solid aqua;
+    margin: 50px;
+    margin-top: 20px;
+    padding: 35px;
+    text-align: center;
+    
+}
+#kusaabsan h4 {
+    font-size: 30px;
+    margin-top: -20px;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+   
+}
+.parent, .box1, .box3 {
+    margin-left: 50px;
+}
+/*
+.box1, .box2, .boxy3, .box4 {
+  padding: -20px;
+}*/
+
+/* footer */
+footer header {
+    background-color: #454f6f;
+    padding: 10px 10px 30px 10px;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+    
+}
+
+footer p {
+    background-color: #e6834c;
+    padding:10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -20px;
+    text-align: center;
+    
+} 
+
+/* footer ends */
+
+/* end of about.html */
+
+/* contacts starts here */
+
+ .sawirka {
+    background-image: url(/images/pexels-quang-nguyen-vinh-2159065\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+}
+
+
+
+
+
+
+
